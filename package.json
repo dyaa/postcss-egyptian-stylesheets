@@ -1,13 +1,13 @@
 {
     "name": "postcss-egyptian-stylesheets",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "description": "PostCSS plugin for writing egyptian Style Sheets",
     "keywords": [
         "postcss",
         "css",
         "postcss-plugin",
-        "australia",
-        "egyptian",
+        "Egypt",
+        "Egyptian",
         "egyptian-stylesheets"
     ],
     "author": "Dyaa Eldin <mail@dyaa.me>",

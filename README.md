@@ -1,5 +1,9 @@
 # PostCSS Egyptian Stylesheets [![wercker status](https://app.wercker.com/status/488e42fadb27c93836893f1bd1b040fc/s/master "wercker status")](https://app.wercker.com/project/byKey/488e42fadb27c93836893f1bd1b040fc)
 
+[![npm](https://img.shields.io/npm/dt/postcss-egyptian-stylesheets.svg)](https://www.npmjs.com/package/postcss-egyptian-stylesheets)
+[![npm](https://img.shields.io/npm/v/postcss-egyptian-stylesheets.svg)](https://www.npmjs.com/package/postcss-egyptian-stylesheets)
+[![npm](https://img.shields.io/npm/l/postcss-egyptian-stylesheets.svg)](https://github.com/dyaa/postcss-egyptian-stylesheets)
+
 [PostCSS] plugin for writing Egyptian Stylesheets.
 
 [PostCSS]: https://github.com/postcss/postcss
@@ -54,3 +58,11 @@ postcss([ require('postcss-egyptian-stylesheets') ])
 ## Thanks to
 
 Inspiration from [Canadian Stylesheets](https://github.com/chancancode/postcss-canadian-stylesheets)
+
+## License
+
+Copylefted (c) 2018 [Dyaa Eldin Moustafa][1] Licensed under the [MIT license][2].
+
+
+  [1]: https://dyaa.me/
+  [2]: https://github.com/dyaa/postcss-egyptian-stylesheets/blob/master/LICENSE
