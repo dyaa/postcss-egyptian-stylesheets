@@ -1,8 +1,13 @@
-# PostCSS Egyptian Stylesheets
+# PostCSS Egyptian Stylesheets [![wercker status](https://app.wercker.com/status/488e42fadb27c93836893f1bd1b040fc/s/master "wercker status")](https://app.wercker.com/project/byKey/488e42fadb27c93836893f1bd1b040fc)
 
 [PostCSS] plugin for writing Egyptian Stylesheets.
 
 [PostCSS]: https://github.com/postcss/postcss
+
+# Installation 
+```sh
+yarn add --dev postcss-egyptian-stylesheets
+```
 
 ## Egyptian syntax
 ```css
